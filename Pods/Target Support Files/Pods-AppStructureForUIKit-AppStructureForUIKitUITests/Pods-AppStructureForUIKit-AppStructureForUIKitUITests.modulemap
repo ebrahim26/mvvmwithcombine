@@ -1,0 +1,6 @@
+framework module Pods_AppStructureForUIKit_AppStructureForUIKitUITests {
+  umbrella header "Pods-AppStructureForUIKit-AppStructureForUIKitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
